@@ -29,4 +29,8 @@
 |전자물성학|고체물리학 원리|3|
 
 
+github address: [sohimiin][github]
+
+[github]:http://github.com/sohimiin
+
 
